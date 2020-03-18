@@ -1,11 +1,6 @@
 //package com.lbc.engine;
 //
-//import com.youzan.test.core.flowengine.domains.*;
-//import com.youzan.test.core.tips.IOrderRunner;
-//import com.youzan.test.dal.ufo.dao.DomainDAO;
-//import com.youzan.test.dal.ufo.dao.RuleDAO;
-//import com.youzan.test.dal.ufo.dataobject.DomainDO;
-//import com.youzan.test.dal.ufo.dataobject.RuleDO;
+
 //import lombok.extern.slf4j.Slf4j;
 //import org.springframework.beans.factory.annotation.Autowired;
 //import org.springframework.context.annotation.DependsOn;

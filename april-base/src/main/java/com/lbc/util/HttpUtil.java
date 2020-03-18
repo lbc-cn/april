@@ -92,7 +92,7 @@
 //
 //                        String path = "/Users/lbc/jmx/detailonline.csv";
 //
-//                        if (serviceName.equals("com.youzan.trade.detail.api.service.OrderInfoService")){
+//                        if (serviceName.equals("com.xxx.trade.detail.api.service.OrderInfoService")){
 //                            if (methodName.equals("getRealTimeOrder")){
 //                                path = "/Users/lbc/jmx/DInfoRealTime.json";
 //                            }else if (methodName.equals("getOrders")){
@@ -100,11 +100,11 @@
 //                            }else if (methodName.equals("get")){
 //                                path = "/Users/lbc/jmx/DInfoget.json";
 //                            }
-//                        }else if(serviceName.equals("com.youzan.trade.detail.api.service.GatewayService")){
+//                        }else if(serviceName.equals("com.xxx.trade.detail.api.service.GatewayService")){
 //                            if (methodName.equals("get")){
 //                                path = "/Users/lbc/jmx/Dgatewayget.json";
 //                            }
-//                        }else if(serviceName.equals("com.youzan.trade.detail.api.service.OrderDetailService")){
+//                        }else if(serviceName.equals("com.xxx.trade.detail.api.service.OrderDetailService")){
 //                            if (methodName.equals("getOrders")){
 //                                path = "/Users/lbc/jmx/DdetailGetOrders.json";
 //                            }

@@ -19,7 +19,7 @@
 //@Aspect
 //public class DefaultAspect {
 //
-//    @Pointcut("execution(public * com.youzan.test.tom.biz.impl..*.*(..))")
+//    @Pointcut("execution(public * com.xxx.test.tom.biz.impl..*.*(..))")
 //    public void pointcut() {
 //    }
 //
